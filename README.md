@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/krajasek/pyjama.svg?branch=master)](https://travis-ci.org/krajasek/pyjama)
+
 # pyjama
 Set of casual python utilities
 
