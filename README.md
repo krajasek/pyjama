@@ -1,5 +1,5 @@
 # pyjama
-A set of casual python utilities
+Set of casual python utilities
 
 ## Mutable String Builder
 ```python
