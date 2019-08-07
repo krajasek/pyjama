@@ -66,3 +66,7 @@ class TestStringBuilder(unittest.TestCase):
         s = sb.StringBuilder(original_str)
         s += original_str
         self.assertEqual('{}{}'.format(original_str, original_str), str(s))
+
+    def test_to_string_builder(self):
+        s = sb.StringBuilder("wow")
+        self.assertTrue(isinstance(s.to_string(), str))

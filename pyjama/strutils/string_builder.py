@@ -38,3 +38,5 @@ class StringBuilder(object):
     def remove(self, key):
         self.__delitem__(key)
 
+    def to_string(self):
+        return self.__str__()
