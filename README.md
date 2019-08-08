@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.org/krajasek/pyjama.svg?branch=master)](https://travis-ci.org/krajasek/pyjama)
 
-# pyjama
+# pyjamaparty
 Set of casual python utilities
 
 ## Mutable String Builder
 ```python
-from pyjama.strutils import string_builder as sb
+from pyjamaparty.strutils import string_builder as sb
 s = sb.StringBuilder()
 
 s.append('Wow, ')
