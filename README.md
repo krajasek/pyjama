@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/krajasek/pyjama.svg?branch=master)](https://travis-ci.org/krajasek/pyjama)
+[![PyPI version](https://badge.fury.io/py/pyjamaparty.svg)](https://badge.fury.io/py/pyjamaparty)   [![Build Status](https://travis-ci.org/krajasek/pyjama.svg?branch=master)](https://travis-ci.org/krajasek/pyjama)
 
 # pyjamaparty
 Set of casual python utilities
