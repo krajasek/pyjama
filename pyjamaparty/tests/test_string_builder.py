@@ -1,5 +1,5 @@
 import unittest
-from pyjama.strutils import string_builder as sb
+from pyjamaparty.strutils import string_builder as sb
 
 
 class TestStringBuilder(unittest.TestCase):

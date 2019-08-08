@@ -5,15 +5,15 @@ long_description = '{}, written standing on shoulders of giants'.format(descript
 
 requirements = []
 setup(
-   name='pyjama',
+   name='pyjamaparty',
    version='0.1',
    description=description,
    license="MIT",
    long_description=long_description,
    author='Karthik Rajasekaran',
    author_email='krajasek@gmail.com',
-   url="http://github.com/krajasek/pyjama",
+   url="http://github.com/krajasek/pyjamaparty",
    install_requires=requirements,
-   packages=find_packages(exclude=('pyjama.tests',)),
+   packages=find_packages(exclude=('pyjamaparty.tests',)),
    python_requires='>=2.7'
 )
