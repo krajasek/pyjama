@@ -6,8 +6,8 @@ Set of casual python utilities
 ## Mutable String Builder
 ```python
 from pyjamaparty.strutils import string_builder as sb
-s = sb.StringBuilder()
 
+s = sb.StringBuilder()
 s.append('Wow, ')
 s.append('such a nice ').append('builder')
 print(len(s))
