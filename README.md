@@ -23,3 +23,12 @@ for c in s:
 
 print(str(s))
 ```
+
+## Singleton Decorator
+```python
+from pyjamaparty.patterns.singleton_pattern import singleton
+
+@singleton
+class YouOnlyLiveOnce(object):
+    pass
+```
